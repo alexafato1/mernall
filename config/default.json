@@ -1,0 +1,7 @@
+{
+    "port": 8080,
+    "jwtSecret": "vladilen youtube mern",
+    "mongoUri": "mongodb+srv://serg:9ec5M9XRjzCvDIrm@cluster0.mtpb8.mongodb.net/fullstack"
+    
+    
+}
